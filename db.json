@@ -1,0 +1,144 @@
+{
+  "garages": [
+    {
+      "id": 1,
+      "name": "Speedy Auto",
+      "contactNumber": "9876543210",
+      "address": "123 Main Street, Mumbai",
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "name": "Rapid Repairs",
+      "contactNumber": "9123456780",
+      "address": "456 Park Lane, Delhi",
+      "status": "Active"
+    },
+    {
+      "id": 3,
+      "name": "AutoFix Garage",
+      "contactNumber": "9988776655",
+      "address": "789 Elm Street, Bangalore",
+      "status": "Complete"
+    },
+    {
+      "id": 4,
+      "name": "GearUp Workshop",
+      "contactNumber": "9871234560",
+      "address": "101 Oak Road, Pune",
+      "status": "Pending"
+    },
+    {
+      "id": 5,
+      "name": "MotorCare",
+      "contactNumber": "9123987654",
+      "address": "202 Pine Avenue, Jaipur",
+      "status": "Active"
+    },
+    {
+      "id": 6,
+      "name": "QuickFix Garage",
+      "contactNumber": "9876501234",
+      "address": "303 Cedar Street, Kolkata",
+      "status": "Complete"
+    },
+    {
+      "id": 7,
+      "name": "WheelWorks",
+      "contactNumber": "9988123456",
+      "address": "404 Maple Lane, Chennai",
+      "status": "Pending"
+    },
+    {
+      "id": 8,
+      "name": "Precision Auto",
+      "contactNumber": "9123678901",
+      "address": "505 Birch Avenue, Hyderabad",
+      "status": "Active"
+    },
+    {
+      "id": 9,
+      "name": "Elite Garage",
+      "contactNumber": "9876541230",
+      "address": "606 Willow Road, Ahmedabad",
+      "status": "Complete"
+    },
+    {
+      "id": 10,
+      "name": "ProFix Motors",
+      "contactNumber": "9123459876",
+      "address": "707 Spruce Street, Lucknow",
+      "status": "Pending"
+    },
+    {
+      "id": 11,
+      "name": "AutoCare Plus",
+      "contactNumber": "9876509876",
+      "address": "808 Ash Lane, Surat",
+      "status": "Active"
+    },
+    {
+      "id": 12,
+      "name": "Master Garage",
+      "contactNumber": "9988771122",
+      "address": "909 Cypress Street, Bhopal",
+      "status": "Complete"
+    },
+    {
+      "id": 13,
+      "name": "FastTrack Motors",
+      "contactNumber": "9123451122",
+      "address": "1010 Palm Road, Indore",
+      "status": "Pending"
+    },
+    {
+      "id": 14,
+      "name": "Ace AutoWorks",
+      "contactNumber": "9876543321",
+      "address": "1111 Oak Avenue, Chennai",
+      "status": "Active"
+    },
+    {
+      "id": 15,
+      "name": "Ultimate Garage",
+      "contactNumber": "9988773344",
+      "address": "1212 Pine Street, Bangalore",
+      "status": "Complete"
+    },
+    {
+      "id": 16,
+      "name": "Rapid Auto Service",
+      "contactNumber": "9123455566",
+      "address": "1313 Cedar Road, Mumbai",
+      "status": "Pending"
+    },
+    {
+      "id": 17,
+      "name": "AutoPro Garage",
+      "contactNumber": "9876546677",
+      "address": "1414 Maple Lane, Delhi",
+      "status": "Active"
+    },
+    {
+      "id": 18,
+      "name": "GarageXpress",
+      "contactNumber": "9988777788",
+      "address": "1515 Birch Street, Pune",
+      "status": "Complete"
+    },
+    {
+      "id": 19,
+      "name": "Motor Masters",
+      "contactNumber": "9123458899",
+      "address": "1616 Willow Avenue, Jaipur",
+      "status": "Pending"
+    },
+    {
+      "id": 20,
+      "name": "AutoFixers",
+      "contactNumber": "9876549900",
+      "address": "1717 Elm Street, Hyderabad",
+      "status": "Active"
+    }
+  ]
+}
